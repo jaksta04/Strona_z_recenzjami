@@ -1,0 +1,377 @@
+[
+  {
+    "id": 1,
+    "tytul": "Incepcja",
+    "opisPlik": "/opisy/Incepcja.txt",
+    "zdjecie": "./img/Incepcja.jpg",
+    "typ": "film",
+    "kategoria": "science fiction",
+    "trailer": "https://www.youtube.com/embed/YoHD9XEInc0",
+    "rok": 2010,
+    "czas": 148,
+    "rezyser": {
+      "nazwa": "Christopher Nolan",
+      "wiki": "https://pl.wikipedia.org/wiki/Christopher_Nolan"
+    },
+    "role": [
+      {
+        "nazwa": "Leonardo DiCaprio",
+        "wiki": "https://pl.wikipedia.org/wiki/Leonardo_DiCaprio"
+      },
+      {
+        "nazwa": "Joseph Gordon-Levitt",
+        "wiki": "https://pl.wikipedia.org/wiki/Joseph_Gordon-Levitt"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tytul": "Breaking Bad",
+    "opisPlik": "/opisy/Breaking_Bad.txt",
+    "zdjecie": "./img/Breaking_Bad.jpg",
+    "typ": "serial",
+    "kategoria": "kryminał",
+    "trailer": "https://www.youtube.com/embed/VFkjBy2b50Q",
+    "rok": 2008,
+    "czas": 2914,
+    "rezyser": {
+      "nazwa": "Vince Gilligan",
+      "wiki": "https://pl.wikipedia.org/wiki/Vince_Gilligan"
+    },
+    "role": [
+      {
+        "nazwa": "Bryan Cranston",
+        "wiki": "https://pl.wikipedia.org/wiki/Bryan_Cranston"
+      },
+      {
+        "nazwa": "Aaron Paul",
+        "wiki": "https://pl.wikipedia.org/wiki/Aaron_Paul"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tytul": "Forrest Gump",
+    "typ": "film",
+    "kategoria": "dramat",
+    "zdjecie": "./img/Forrest_Gump.jpg",
+    "opisPlik": "/opisy/Forrest_Gump.txt",
+    "trailer": "https://www.youtube.com/embed/bLvqoHBptjg",
+    "rok": 1994,
+    "czas": 142,
+    "rezyser": {
+      "nazwa": "Robert Zemeckis",
+      "wiki": "https://pl.wikipedia.org/wiki/Robert_Zemeckis"
+    },
+    "role": [
+      {
+        "nazwa": "Tom Hanks",
+        "wiki": "https://pl.wikipedia.org/wiki/Tom_Hanks"
+      },
+      {
+        "nazwa": "Robin Wright",
+        "wiki": "https://pl.wikipedia.org/wiki/Robin_Wright"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "tytul": "Titanic",
+    "typ": "film",
+    "kategoria": "dramat",
+    "zdjecie": "./img/Titanic.jpg",
+    "opisPlik": "/opisy/Titanic.txt",
+    "trailer": "https://www.youtube.com/embed/wO44qBPBG4c",
+    "rok": 1997,
+    "czas": 195,
+    "rezyser": {
+      "nazwa": "James Cameron",
+      "wiki": "https://pl.wikipedia.org/wiki/James_Cameron"
+    },
+    "role": [
+      {
+        "nazwa": "Leonardo DiCaprio",
+        "wiki": "https://pl.wikipedia.org/wiki/Leonardo_DiCaprio"
+      },
+      {
+        "nazwa": "Kate Winslet",
+        "wiki": "https://pl.wikipedia.org/wiki/Kate_Winslet"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "tytul": "Gladiator",
+    "typ": "film",
+    "kategoria": "dramat",
+    "zdjecie": "./img/Gladiator.jpg",
+    "opisPlik": "/opisy/Gladiator.txt",
+    "trailer": "https://www.youtube.com/embed/owK1qxDselE",
+    "rok": 2000,
+    "czas": 155,
+    "rezyser": {
+      "nazwa": "Ridley Scott",
+      "wiki": "https://pl.wikipedia.org/wiki/Ridley_Scott"
+    },
+    "role": [
+      {
+        "nazwa": "Russell Crowe",
+        "wiki": "https://pl.wikipedia.org/wiki/Russell_Crowe"
+      },
+      {
+        "nazwa": "Joaquin Phoenix",
+        "wiki": "https://pl.wikipedia.org/wiki/Joaquin_Phoenix"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "tytul": "Skazani na Shawshank",
+    "typ": "film",
+    "kategoria": "dramat",
+    "zdjecie": "./img/SKazani_na_Shawshank.jpg",
+    "opisPlik": "/opisy/Skazani_na_Shawshank.txt",
+    "trailer": "https://www.youtube.com/embed/6hB3S9bIaco",
+    "rok": 1994,
+    "czas": 142,
+    "rezyser": {
+      "nazwa": "Frank Darabont",
+      "wiki": "https://pl.wikipedia.org/wiki/Frank_Darabont"
+    },
+    "role": [
+      {
+        "nazwa": "Tim Robbins",
+        "wiki": "https://pl.wikipedia.org/wiki/Tim_Robbins"
+      },
+      {
+        "nazwa": "Morgan Freeman",
+        "wiki": "https://pl.wikipedia.org/wiki/Morgan_Freeman"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "tytul": "Ucieczka z Alcatraz",
+    "typ": "film",
+    "kategoria": "dramat",
+    "zdjecie": "./img/Ucieczka_z_Alcatraz.jpg",
+    "opisPlik": "/opisy/Ucieczka_z_Alcatraz.txt",
+    "trailer": "https://www.youtube.com/embed/BUGneGTb_Pw",
+    "rok": 1979,
+    "czas": 112,
+    "rezyser": {
+      "nazwa": "Don Siegel",
+      "wiki": "https://pl.wikipedia.org/wiki/Don_Siegel"
+    },
+    "role": [
+      {
+        "nazwa": "Clint Eastwood",
+        "wiki": "https://pl.wikipedia.org/wiki/Clint_Eastwood"
+      },
+      {
+        "nazwa": "Patrick McGoohan",
+        "wiki": "https://pl.wikipedia.org/wiki/Patrick_McGoohan"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "tytul": "Zielona Mila",
+    "typ": "film",
+    "kategoria": "dramat",
+    "zdjecie": "./img/Zielona_Mila.jpg",
+    "opisPlik": "/opisy/Zielona_Mila.txt",
+    "trailer": "https://www.youtube.com/embed/bCk4E4LNGFY",
+    "rok": 1999,
+    "czas": 189,
+    "rezyser": {
+      "nazwa": "Frank Darabont",
+      "wiki": "https://pl.wikipedia.org/wiki/Frank_Darabont"
+    },
+    "role": [
+      {
+        "nazwa": "Tom Hanks",
+        "wiki": "https://pl.wikipedia.org/wiki/Tom_Hanks"
+      },
+      {
+        "nazwa": "Michael Clarke Duncan",
+        "wiki": "https://pl.wikipedia.org/wiki/Michael_Clarke_Duncan"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "tytul": "Joker",
+    "typ": "film",
+    "kategoria": "dramat",
+    "zdjecie": "./img/Joker.jpg",
+    "opisPlik": "/opisy/Joker.txt",
+    "trailer": "https://www.youtube.com/embed/zAGVQLHvwOY",
+    "rok": 2019,
+    "czas": 122,
+    "rezyser": {
+      "nazwa": "Todd Phillips",
+      "wiki": "https://pl.wikipedia.org/wiki/Todd_Phillips"
+    },
+    "role": [
+      {
+        "nazwa": "Joaquin Phoenix",
+        "wiki": "https://pl.wikipedia.org/wiki/Joaquin_Phoenix"
+      },
+      {
+        "nazwa": "Robert De Niro",
+        "wiki": "https://pl.wikipedia.org/wiki/Robert_De_Niro"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "tytul": "Szeregowiec Ryan",
+    "typ": "film",
+    "kategoria": "wojenny",
+    "zdjecie": "./img/Szeregowiec_Ryan.jpg",
+    "opisPlik": "/opisy/Szeregowiec_Ryan.txt",
+    "trailer": "https://www.youtube.com/embed/9CiW_DgxCnQ",
+    "rok": 1998,
+    "czas": 169,
+    "rezyser": {
+      "nazwa": "Steven Spielberg",
+      "wiki": "https://pl.wikipedia.org/wiki/Steven_Spielberg"
+    },
+    "role": [
+      {
+        "nazwa": "Tom Hanks",
+        "wiki": "https://pl.wikipedia.org/wiki/Tom_Hanks"
+      },
+      {
+        "nazwa": "Matt Damon",
+        "wiki": "https://pl.wikipedia.org/wiki/Matt_Damon"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "tytul": "Buntownik z wyboru",
+    "typ": "film",
+    "kategoria": "dramat",
+    "zdjecie": "./img/Buntownik_z_wyboru.jpg",
+    "opisPlik": "/opisy/Buntownik_z_wyboru.txt",
+    "trailer": "https://www.youtube.com/embed/ReIJ1lbL-Q8",
+    "rok": 1997,
+    "czas": 126,
+    "rezyser": {
+      "nazwa": "Gus Van Sant",
+      "wiki": "https://pl.wikipedia.org/wiki/Gus_Van_Sant"
+    },
+    "role": [
+      {
+        "nazwa": "Matt Damon",
+        "wiki": "https://pl.wikipedia.org/wiki/Matt_Damon"
+      },
+      {
+        "nazwa": "Robin Williams",
+        "wiki": "https://pl.wikipedia.org/wiki/Robin_Williams"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "tytul": "Chłopiec w pasiastej piżamie",
+    "typ": "film",
+    "kategoria": "wojenny",
+    "zdjecie": "./img/Chłopiec_w_pasiastej_piżamie.jpg",
+    "opisPlik": "/opisy/Chłopiec_w_pasiastej_pizamie.txt",
+    "trailer": "https://www.youtube.com/embed/fKmHJkPitj4",
+    "rok": 2008,
+    "czas": 94,
+    "rezyser": {
+      "nazwa": "Mark Herman",
+      "wiki": "https://pl.wikipedia.org/wiki/Mark_Herman"
+    },
+    "role": [
+      {
+        "nazwa": "Asa Butterfield",
+        "wiki": "https://pl.wikipedia.org/wiki/Asa_Butterfield"
+      },
+      {
+        "nazwa": "David Thewlis",
+        "wiki": "https://pl.wikipedia.org/wiki/David_Thewlis"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "tytul": "Dunkierka",
+    "typ": "film",
+    "kategoria": "wojenny",
+    "zdjecie": "./img/Dunkierka.jpg",
+    "opisPlik": "/opisy/Dunkierka.txt",
+    "trailer": "https://www.youtube.com/embed/F-eMt3SrfFU",
+    "rok": 2017,
+    "czas": 106,
+    "rezyser": {
+      "nazwa": "Christopher Nolan",
+      "wiki": "https://pl.wikipedia.org/wiki/Christopher_Nolan"
+    },
+    "role": [
+      {
+        "nazwa": "Fionn Whitehead",
+        "wiki": "https://pl.wikipedia.org/wiki/Fionn_Whitehead"
+      },
+      {
+        "nazwa": "Tom Hardy",
+        "wiki": "https://pl.wikipedia.org/wiki/Tom_Hardy"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "tytul": "Oppenheimer (2023)",
+    "typ": "film",
+    "kategoria": "biograficzny",
+    "zdjecie": "./img/Oppenheimer.jpg",
+    "opisPlik": "/opisy/Oppenheimer.txt",
+    "trailer": "https://www.youtube.com/embed/uYPbbksJxIg",
+    "rok": 2023,
+    "czas": 180,
+    "rezyser": {
+      "nazwa": "Christopher Nolan",
+      "wiki": "https://pl.wikipedia.org/wiki/Christopher_Nolan"
+    },
+    "role": [
+      {
+        "nazwa": "Cillian Murphy",
+        "wiki": "https://pl.wikipedia.org/wiki/Cillian_Murphy"
+      },
+      {
+        "nazwa": "Emily Blunt",
+        "wiki": "https://pl.wikipedia.org/wiki/Emily_Blunt"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "tytul": "W pogoni za szczęściem",
+    "typ": "film",
+    "kategoria": "biograficzny",
+    "zdjecie": "./img/W_pogoni_za_szczesciem.jpg",
+    "opisPlik": "/opisy/W_pogoni_za_szczesciem.txt",
+    "trailer": "https://www.youtube.com/embed/89Kq8SDyvfg",
+    "rok": 2006,
+    "czas": 117,
+    "rezyser": {
+      "nazwa": "Gabriele Muccino",
+      "wiki": "https://pl.wikipedia.org/wiki/Gabriele_Muccino"
+    },
+    "role": [
+      {
+        "nazwa": "Will Smith",
+        "wiki": "https://pl.wikipedia.org/wiki/Will_Smith"
+      },
+      {
+        "nazwa": "Jaden Smith",
+        "wiki": "https://pl.wikipedia.org/wiki/Jaden_Smith"
+      }
+    ]
+  }
+]
